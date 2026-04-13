@@ -1,0 +1,7 @@
+     Poem On Python
+Python is a friendly language, fun and smart to use,
+It helps us tell the computer what to do and choose.
+We write simple words like print to say hello,
+And watch our bright ideas start to grow and glow.
+With loops and numbers, we can count and play,
+Python makes coding easy every day!

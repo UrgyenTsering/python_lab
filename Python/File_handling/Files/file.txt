@@ -1,0 +1,3 @@
+Hi, I am a software developer. 
+I love python. 
+Python is best for Ai and machine learning.
